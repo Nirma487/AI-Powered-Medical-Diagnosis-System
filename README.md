@@ -1,4 +1,4 @@
-# 🧠 AI-Powered Medical Diagnosis System
+# 🧠 AI-Powered Medical Diagnosis System.
 
 An intelligent, ML-driven system that analyzes user symptoms to suggest probable medical conditions. Designed for **preliminary diagnosis**, this tool helps patients get early insights and encourages timely medical consultation.
 

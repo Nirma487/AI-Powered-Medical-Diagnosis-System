@@ -4,7 +4,7 @@ An intelligent, ML-driven system that analyzes user symptoms to suggest probable
 
 ---
 
-## 🩺 Purpose
+## 🩺 Purpose 
 
 To provide a **smart, fast, and accessible** tool that helps individuals understand potential health issues based on symptoms using machine learning algorithms.
 
